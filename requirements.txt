@@ -1,0 +1,6 @@
+librosa
+numpy
+gradio
+soundfile
+click
+modelscope
