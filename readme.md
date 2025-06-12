@@ -1,4 +1,6 @@
-### 本项目基于[SubFix](https://github.com/cronrpc/SubFix)搭建,环境搭建参考subfix_readme
+## 本项目基于[SubFix](https://github.com/cronrpc/SubFix)搭建,用于对音频文件进行切分和打标
+
+## 环境搭建参考[subfix_readme](https://github.com/cronrpc/SubFix/blob/main/README_zh.md)
 
 ## 使用指南
 
