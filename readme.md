@@ -1,3 +1,7 @@
+### 本项目基于[SubFix](https://github.com/cronrpc/SubFix)搭建,环境搭建参考subfix_readme
+
+## 使用指南
+
 00.文件夹路径栏输入cmd，启动命令行
 
 01.清理文件夹内容
